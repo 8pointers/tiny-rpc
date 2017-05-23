@@ -1,0 +1,19 @@
+{
+  "name": "tiny-rpc",
+  "version": "1.0.0",
+  "description": "Tiny RPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8pointers/tiny-rpc.git"
+  },
+  "author": "Damjan Vujnovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8pointers/tiny-rpc/issues"
+  },
+  "homepage": "https://github.com/8pointers/tiny-rpc#readme"
+}
